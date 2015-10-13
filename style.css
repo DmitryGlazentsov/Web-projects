@@ -7,3 +7,12 @@
 	max-width: 30px;
 	max-height: 30px;
 }
+.green{
+	background-color: green;
+}
+.no_color{
+	background-color: red;
+}
+.main_div_color{
+	background-color: #FFFFFF;
+}
